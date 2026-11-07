@@ -36,6 +36,44 @@ current:    Building the Ascend project series
   <img src="https://img.shields.io/badge/Arduino-111111?style=for-the-badge&logo=arduino&logoColor=FFFFFF" alt="Arduino">
 </p>
 
+## Certifications
+
+### Professional
+
+<p align="center">
+  <a href="https://internship.flyrank.ai/verify/FR-D11-56722-B329D?first_name=Cyrill"><img src="https://img.shields.io/badge/FlyRank%20AI%20Fluency-1C5C50?style=for-the-badge" alt="Certificate of Completion: AI Fluency"></a>
+  <a href="https://internship.flyrank.ai/verify/FR-D11-A9E5F-E68A6?first_name=Cyrill"><img src="https://img.shields.io/badge/FlyRank%20Backend%20AI%20Engineering-1C5C50?style=for-the-badge" alt="Certificate of Completion: Backend AI Engineering"></a>
+  <a href="https://www.credly.com/badges/3318fc34-2d85-41db-85e4-ef2c0fc727b9"><img src="https://img.shields.io/badge/SAP%20Generative%20AI%20Developer-1C5C50?style=for-the-badge" alt="SAP Certified: SAP Generative AI Developer"></a>
+  <a href="https://www.credly.com/badges/a696c2ef-883c-4170-b81c-14a42787a711"><img src="https://img.shields.io/badge/SAP%20Autonomous%20Enterprise-1C5C50?style=for-the-badge" alt="SAP Certified: Positioning the Autonomous Enterprise"></a>
+  <a href="https://www.credly.com/badges/a522925b-00e3-404d-aa83-9a972fb3a8dd"><img src="https://img.shields.io/badge/PMI%20Project%20Management%20Ready-1C5C50?style=for-the-badge" alt="PMI Project Management Ready"></a>
+  <a href="https://www.credly.com/badges/e733f033-0bf7-428b-b41a-354c50ad4899"><img src="https://img.shields.io/badge/IT%20Specialist%3A%20Python-1C5C50?style=for-the-badge" alt="IT Specialist: Python"></a>
+</p>
+
+### Claude Academy
+
+<p align="center">
+  <a href="https://academy.claude.com/verify/33af33deadedcfdbc288fd5403658dd8"><img src="https://img.shields.io/badge/Effective%20Human%E2%80%93Agent%20Teams-62467F?style=for-the-badge" alt="Building effective human-agent teams"></a>
+  <a href="https://academy.claude.com/verify/10c579e002b4ca58eb0bc792bf832c27"><img src="https://img.shields.io/badge/Claude%20Platform%20101-62467F?style=for-the-badge" alt="Claude Platform 101"></a>
+  <a href="https://academy.claude.com/verify/8e77273ffb4eb4771031a1b06928f692"><img src="https://img.shields.io/badge/Claude%20Code%20101-62467F?style=for-the-badge" alt="Claude Code 101"></a>
+  <a href="https://academy.claude.com/verify/121239664057fa35d83db490eaffde23"><img src="https://img.shields.io/badge/Claude%20Code%20in%20action-62467F?style=for-the-badge" alt="Claude Code in action"></a>
+  <a href="https://academy.claude.com/verify/00df819cd8f793402ac8a521e5a422d3"><img src="https://img.shields.io/badge/AI%20capabilities%20and%20limitations-62467F?style=for-the-badge" alt="AI capabilities and limitations"></a>
+  <a href="https://academy.claude.com/verify/b55a1681bcb6bd5c4901f64fcea3e033"><img src="https://img.shields.io/badge/Introduction%20to%20MCP-62467F?style=for-the-badge" alt="Introduction to Model Context Protocol"></a>
+  <a href="https://academy.claude.com/verify/74a03fa1630f1b817b67898315cf045e"><img src="https://img.shields.io/badge/Advanced%20MCP-62467F?style=for-the-badge" alt="Model Context Protocol: Advanced topics"></a>
+</p>
+
+### Courses
+
+<p align="center">
+  <a href="https://www.linkedin.com/learning/certificates/3064eb85292f8849f8300b5b72d39011c33a77bea995cf6ddd8f7d6157b1880d"><img src="https://img.shields.io/badge/Introduction%20to%20ESG-235A8F?style=for-the-badge" alt="Introduction to ESG"></a>
+  <a href="https://www.linkedin.com/learning/certificates/b8f1aadc9227306f89f7288fde0d37574bef4c190d1789182859d30a53fdc61e"><img src="https://img.shields.io/badge/Driving%20Organizational%20Sustainability-235A8F?style=for-the-badge" alt="Driving Sustainability at Your Organization"></a>
+  <a href="https://cajucomportfolio.vercel.app/photos/certs/databricks-ai-agents.jpg"><img src="https://img.shields.io/badge/AI%20Agent%20Fundamentals-235A8F?style=for-the-badge" alt="AI Agent Fundamentals"></a>
+  <a href="https://www.kaggle.com/learn/certification/cyrillgerardcajucom/intro-to-deep-learning"><img src="https://img.shields.io/badge/Intro%20to%20Deep%20Learning-235A8F?style=for-the-badge" alt="Intro to Deep Learning"></a>
+  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=4f37ec58-fd34-45e3-92fb-649652efded7"><img src="https://img.shields.io/badge/MATLAB%20Onramp-235A8F?style=for-the-badge" alt="MATLAB Onramp"></a>
+  <a href="https://cajucomportfolio.vercel.app/photos/certs/cisco-ccna-itn.jpg"><img src="https://img.shields.io/badge/CCNA%3A%20Introduction%20to%20Networks-235A8F?style=for-the-badge" alt="CCNA: Introduction to Networks"></a>
+  <a href="https://www.linkedin.com/learning/certificates/8eb3d916ea590ae8a1d07f910ac21602b64e59b5c914ddf699c899637890adc4"><img src="https://img.shields.io/badge/Android%20Development%20with%20Kotlin-235A8F?style=for-the-badge" alt="Android Development with Kotlin"></a>
+  <a href="https://www.linkedin.com/learning/certificates/5bc8460a0b9d56e77d4fdc51f4e20cb016fb940a99df59edb9f2166f122a7395"><img src="https://img.shields.io/badge/Agile%20Software%20Development-235A8F?style=for-the-badge" alt="Agile Software Development"></a>
+</p>
+
 <img src="assets/h-quests.svg" alt="Featured projects">
 
 <p>
